@@ -1,7 +1,7 @@
 # Sample Questions
 
 To help you get started, here are some **Sample Prompts** you can ask in the app:
-
+> Note: Average response time is 04 - 20 seconds.
 ### **Chat with Your Data**
 
 > Note: On the Admin webpage, ensure that the files have been uploaded from [here](../data) and processed successfully before proceeding with sample prompts.
